@@ -1,0 +1,13 @@
+h1 {color: white; 
+    margin-left: 20px; 
+    line-height: 50px;}
+
+#main {background-color: gray;
+      width: 350px;
+      height: 650px ;
+      margin: 30px;}
+
+div {background-color: orange; 
+    width: 120px;
+    height: 120px;
+    margin-left: 30px;}
